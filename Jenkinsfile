@@ -1,4 +1,4 @@
-@Library "test-shared-library"@master
+@library "test-shared-library"@master
 pipeline {
   agent any
   stages {
