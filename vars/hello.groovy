@@ -3,7 +3,7 @@ def call(Map map = [:]){
         println map.name
         println map.age
         println map.city
-        echo "${name}"
-        echo "${map.name}"
+        echo name
+        echo map.name
     }
   }
