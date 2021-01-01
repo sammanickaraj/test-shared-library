@@ -1,6 +1,6 @@
 def call(Map map = [:]){  
     stage("Image Creation") {
-        println map.name
+        println map.named
         println map.age
     }
   }
